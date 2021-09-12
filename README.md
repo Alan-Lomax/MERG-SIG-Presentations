@@ -4,7 +4,7 @@ MERG Arduino SIG Presentations (Work in Progress)
 This is a collection point for collaboration and development of presentations. The presentations are intended for the use of the MERG Arduino SIG. It is expected that there may be a series of presentations when all is said and done. This Readme is intended to be used to capture the proposed outline:
 
 ## Part 0:
-<LI> General Presentation Style and Go-By PowerPoint Template
+<LI> General Presentation Style and Go-By PowerPoint Template (optional / not required)
 
 ## Part 1:
 <LI> The environment (IDE)
