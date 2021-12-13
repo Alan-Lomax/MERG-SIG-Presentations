@@ -25,5 +25,4 @@ The following outline is a proposed framework from which a curriculum could evol
 <LI> Hardware Shields etc  (Servos, Sensors, Motor Control)
   
 ## Part 4:
-<LI> Structures
-<LI> Classes
+<LI> Structures and Classes
