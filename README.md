@@ -1,28 +1,13 @@
-# MERG-SIG-Presentations
-MERG Arduino SIG Presentations (Final)
+# MERG ARDUINO-SIG Presentations
 
-A collection of my MERG presentations. The presentations were in general created for use by the MERG Arduino SIG. 
-Some presentations may have started out as club presentations and been repurposed.  
-The following outline is a proposed framework from which a curriculum could evolve.
+These presentations were created for presenting during MERG Arduino SIG Zoom meetings.
 
-## Part 0:
-<LI> General Presentation Style and Go-By. Includes some best practices to consider in any presentation.
+## Arduino Classes Part 1 - Presented January 11 2022
+## Arduino Classes Part 2 - planned to be Presented January 25 2022
 
-## Part 1:
-<LI> The environment (IDE)
-<LI> Getting Started
-<LI> "Hello World"
-
-## Part 2:
-<LI> Variable types void, int, string, char[], float, signed vs unsigned (underneath it is all binary - its how to interprate the patterns)
-<LI> General programming topics (loops, conditionals, functions etc)
-<LI> Topics of Style and Good Practice
-<LI> Leave off with a simple programming challenge (write a loop, run it, see the output) 
-  
-## Part 3:
-<LI> Functions()
-<LI> Debugging Techniques
-<LI> Hardware Shields etc  (Servos, Sensors, Motor Control)
-  
-## Part 4:
-<LI> Structures and Classes
+## Ground Up presentation
+<li> Is a scoping study / discussion document for a possible carrier board for an Arduino NANO and I/O
+<li> Could use as a basis for an educational video series (hardware and software)
+<li> Would be a very usable device in its own right as a 'standard construction block for model railway Arduinos'
+<li> Is simple to use for hardware integration onto practically any layout or as a development platform
+<li> Has various pin header interfaces (sensors, servos and comms) available to use
