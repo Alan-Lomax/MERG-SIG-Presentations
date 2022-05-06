@@ -8,5 +8,5 @@ These presentations were created for presenting during MERG Arduino SIG Zoom mee
 
 ## Arduino I/O Compendium - Prepared May 2022 for a future presentation
 
-## Ground Up presentation
-<li> Is a discussion document for a carrier board for an Arduino NANO and I/O (MERGduino)
+## Anything Else
+<li> To be considered work in progress
