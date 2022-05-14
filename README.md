@@ -6,7 +6,7 @@ These presentations were created for presenting during MERG Arduino SIG Zoom mee
 
 ## Arduino Classes Part 2 - Presented January 25 2022
 
-## Arduino I/O Compendium - Prepared May 2022 for a future presentation
+## Arduino I/O Compendium - For a presentation on May 17 2022
 
 ## Anything Else
 <li> To be considered work in progress
